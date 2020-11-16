@@ -1,2 +1,41 @@
-# typescript-notes
-Short notes on typescript
+<div align="center">
+    <a href="https://www.flinders.edu.au/">
+    <img src="./img/typescript-logo.png" alt="" height="100"/>
+  </a>
+    <p>
+      <i>TypeScript is a superset of Javascript</i>
+    </p>
+</div>
+
+
+
+## Getting started
+
+Node is a prerequisite
+
+```bash
+
+```
+
+## Main Features
+
+- Static type-checking, done using type annotations
+- Cross-Platform, runs on any platform that Javascript runs on
+- Object-Oriented Language, provides features such as Classes, Interfaces and Modules
+
+## Directories
+
+1. [Types]()
+2. [Intefaces]()
+3. [Classes]()
+4. [Constructors]()
+
+## Resources
+
+- [official typescript language (docs)](https://www.typescriptlang.org/)
+- [TypeScript - The Basics by Fireship (video)](https://www.youtube.com/watch?v=ahCwqrYpIuM&ab_channel=Fireship)
+- [TypeScript 4.0 by Ben Awad (video)](https://www.youtube.com/watch?v=bAB_nNf8-a0)
+
+## Courses
+
+- [TypeScript Course for Beginners 2020 by Academind (video)](https://www.youtube.com/watch?v=BwuLxPH8IDs&t=1073s&ab_channel=Academind)

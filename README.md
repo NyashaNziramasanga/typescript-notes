@@ -25,10 +25,12 @@ Node is a prerequisite
 
 ## Directories
 
-1. [Types]()
-2. [Intefaces]()
-3. [Classes]()
-4. [Constructors]()
+1. [Types](./types.md)
+2. [Interfaces](./interfaces.md)
+3. [Classes](./classes.md)
+4. [Constructors](./constructors.md)
+5. [Generics](./generics.md)
+6. [Access Modifiers](./access-modifiers.md)
 
 ## Resources
 

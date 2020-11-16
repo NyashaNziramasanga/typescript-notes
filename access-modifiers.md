@@ -23,7 +23,6 @@ If contractor parameters are prefixed with private or public, the tsc creates th
 class Point {
   constructor(public x: number, protected y?: number){}
 }
-
 ```
 
 ## Resources

@@ -14,6 +14,14 @@
 Node is a prerequisite
 
 ```bash
+# Installing typescript globally
+$ npm install -g typescript
+
+# Create a TS file
+tsc --init
+
+# Compile ts file
+tsc fileName.ts
 
 ```
 
@@ -35,6 +43,8 @@ Node is a prerequisite
 ## Resources
 
 - [official typescript language (docs)](https://www.typescriptlang.org/)
+- [devhints typescript](https://devhints.io/typescript)
+- [TypeScript exercises](https://typescript-exercises.github.io/)
 - [TypeScript - The Basics by Fireship (video)](https://www.youtube.com/watch?v=ahCwqrYpIuM&ab_channel=Fireship)
 - [TypeScript 4.0 by Ben Awad (video)](https://www.youtube.com/watch?v=bAB_nNf8-a0)
 

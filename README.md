@@ -3,11 +3,11 @@
     <img src="./img/typescript-logo.png" alt="" height="100"/>
   </a>
     <p>
-      <i>TypeScript is a superset of Javascript</i>
+      <i>Short notes on TypeScript</i>
     </p>
 </div>
 
-
+TypeScript is a superset of Javascript, which first appeared in october 2012 and is developed and maintained by Microsoft
 
 ## Getting started
 

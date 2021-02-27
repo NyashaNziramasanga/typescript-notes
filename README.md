@@ -47,6 +47,7 @@ tsc fileName.ts
 - [TypeScript exercises](https://typescript-exercises.github.io/)
 - [TypeScript - The Basics by Fireship (video)](https://www.youtube.com/watch?v=ahCwqrYpIuM&ab_channel=Fireship)
 - [TypeScript 4.0 by Ben Awad (video)](https://www.youtube.com/watch?v=bAB_nNf8-a0)
+- [react-typescript-getting-started (Blog Series)](https://felixgerschau.com/react-typescript-getting-started/)
 
 ## Courses
 
